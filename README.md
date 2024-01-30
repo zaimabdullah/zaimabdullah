@@ -18,6 +18,8 @@
 
 - 👯 I’m looking to collaborate on Real Work Project
 
+- ⚡ Fun fact: I love multitasking
+
 - 📫 How to reach me **husnizaim97@gmail.com**
 
 <h3 align="left">Get in touch :coffee:</h3>
