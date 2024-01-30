@@ -1,31 +1,33 @@
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmad Husni Zaim</h1>
 <h3 align="center">A passionate web and software developer from Malaysia</h3>
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">  
+![GitHub-Gif](https://github.com/zaimabdullah/zaimabdullah/assets/36534973/2ccdaa98-753e-4256-b97e-9f8818929b83)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaimabdullah&label=Profile%20views&color=green&style=flat" alt="zaimabdullah" /> </p>
+<br>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
+
+<h3 align="left">This is me :smiley:</h3>
 - 🔭 I’m interested in **Web and Software Development**
 
 - 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **husnizaim97@gmail.com**
 
-<br>
-
 <h3 align="left">Get in touch :coffee:</h3>
 <p align="left">
 <p>- Your future employee on <a href="https://www.linkedin.com/in/husnizaim/">LinkedIn</a>.</p>
 <p>- And of course GitHub you're already on (Recursion).</p>
 
-<br>
-
 <a href="https://www.linkedin.com/in/husnizaim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="husnizaim" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ah_z1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="husni_zaim" height="30" width="40" /></a>
 <a href="mailto:husnizaim97@gmail.com?Subject=Regarding Github Profile"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="husnizaim_gmail" height="30" width="40"/></a>
 </p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -107,5 +109,6 @@
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaimabdullah&label=Profile%20views&color=green&style=flat" alt="zaimabdullah" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaimabdullah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zaimabdullah" /></p>
 
