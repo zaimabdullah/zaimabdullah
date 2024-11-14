@@ -14,11 +14,9 @@
 
 - 🔭 I’m interested in **Web and Software Development**
 
-- 🌱 I’m currently learning **Laravel, React JS**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on Real Work Project
-
-- ⚡ Fun fact: I love multitasking
 
 - 📫 How to reach me **husnizaim97@gmail.com**
 
