@@ -25,7 +25,7 @@
 
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/husnizaim/).
   
-- And of course GitHub you're already on (Recursion).
+- And of course GitHub you're already on.
 
 <a href="https://www.linkedin.com/in/husnizaim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="husnizaim" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ah_z1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="husni_zaim" height="30" width="40" /></a>
