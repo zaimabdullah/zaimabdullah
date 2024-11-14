@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zaim</h1>
-<h3 align="center">A passionate web and software developer from Malaysia</h3>
+<h3 align="center">A passionate web and software developer from Kelantan, Malaysia</h3>
 
 <br>
 
